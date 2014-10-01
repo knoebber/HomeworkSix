@@ -1,6 +1,5 @@
 package edu.grinnell.csc207.knoebber17.layout;
 
-
 /**
  * One line of text.
  * 
@@ -44,8 +43,9 @@ public class TextLine
    */
   void setContents(String newContents)
   {
-	  line=newContents;
-  }
+    line = newContents;
+  }//setContents
+
   public String row(int i)
     throws Exception
   {

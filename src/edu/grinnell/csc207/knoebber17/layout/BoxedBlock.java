@@ -78,5 +78,5 @@ public class BoxedBlock
   {
     return 2 + this.contents.width();
   } // width()
-  
+
 }
